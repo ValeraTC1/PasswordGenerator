@@ -2,8 +2,8 @@
   "id": "password-generator",
   "name": "Password Generator",
   "minAppVersion": "0.15.0",
-  "description": "Password Generator",
+  "version": "0.1.0",
+  "description": "Password Generator.",
   "author": "Valera",
-  "isDesktopOnly": false,
-  "repo":"ValeraTC1/PasswordGenerator"
+  "isDesktopOnly": false
 }
