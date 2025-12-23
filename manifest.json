@@ -1,0 +1,11 @@
+{
+  "id": "password-generator",
+  "name": "Password Generator",
+  "version": "0.0.1",
+  "minAppVersion": "0.15.0",
+  "description": "Генератор паролей",
+  "author": "Valera",
+  "authorUrl": "",
+  "isDesktopOnly": false,
+  "fundingUrl": ""
+}
